@@ -16,3 +16,6 @@ Time Complexity
 
 2.https://medium.com/@randerson112358/algorithm-analysis-time-complexity-simplified-cd39a81fec71
 
+Euler Phi
+
+https://cp-algorithms.com/algebra/phi-function.html
